@@ -1,10 +1,12 @@
 # DELCO
-An ensemble method that relies on a probabilistic model and copulas
+## (Decentralized Ensemble Learning with COpulas)
+An ensemble method that relies on a probabilistic model and copulas.
 
-The repository contains 1 python file: delco.py
+The repository contains 1 python file: `delco.py`
+
 It can be readily downloaded and executed in a pyhton console (**python 3**) provided that the imported python module versions on your machine match the following ones.
 
-**Warning**: please use the following (or more recent) module versions: numpy 1.14.0, matplotlib 0.98.0, sklearn 0.18.1
+**Warning**: please use the following (or more recent) module versions: `numpy` 1.14.0, `matplotlib` 0.98.0, `sklearn` 0.18.1
 
 
 Licence
