@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Nov 17 12:30:39 2017
-
+Copyright (C) 2017  Universite de Lille
 @author: johnklein
 """
 
