@@ -1,6 +1,6 @@
 # DELCO
 ## (Decentralized Ensemble Learning with COpulas)
-An ensemble method that relies on a probabilistic model and copulas.
+An ensemble method that relies on a probabilistic model and copulas [arXiv](https://arxiv.org/abs/1804.10028).
 
 The repository contains 1 python file: `delco.py`
 
